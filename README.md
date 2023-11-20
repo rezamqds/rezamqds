@@ -36,9 +36,6 @@ Currently pursuing with substantial completion of coursework.</p>
   C#</li>
 </ul>
 
-<h3>GitHub:</h3>
-<p><a href="https://github.com/rezamqds">Check out my projects here!</a></p>
-
 <h3>Contact:</h3>
 <ul>
   <li><strong>Email:</strong> rezamqds@gmail.com</li>
