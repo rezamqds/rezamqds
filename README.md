@@ -17,11 +17,11 @@
 </ul>
 
 <h3>Experience:</h3>
-<p><strong>Web Developer | Mehraket.co | Jun 2023 - Sep 2023</strong><br>
+<p><strong>Web Developer | Jun 2023 - Sep 2023</strong><br>
 Explored Business Research, Web Projects, and Software Design in Shiraz, Iran.</p>
 
 <p><strong>Smartphone Repairs | Jan 2020 - Oct 2022</strong><br>
-Conducted iOS and Android repairs full-time, gaining expertise in troubleshooting and European Computer Driving Licence (ECDL).</p>
+Conducted iOS and Android repairs full-time.</p>
 
 <h3>Education:</h3>
 <p><strong>Computer Engineering Bachelor Student | Shahid Bahonar University of Kerman</strong><br>
