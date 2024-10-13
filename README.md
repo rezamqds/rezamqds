@@ -45,7 +45,6 @@ Passionate about technology since the age of twelve, I've developed a solid foun
 • **📬 Contact:**
   - **Email:** [rezamqds@gmail.com](mailto:rezamqds@gmail.com)
   - **Phone:** +98 917 024 1067
-  - **LinkedIn:** [Connect with me](#)
 
 Feel free to reach out for collaborations or inquiries! Together, we can unlock the endless possibilities of the digital world. 🚀 #TechEnthusiast #Programmer #OpenSource
 
