@@ -1,5 +1,53 @@
 # 💫 About Me:
-Reza Moghaddas | Computer Enthusiast & Programmer<br>Passionate about technology since the age of twelve, I've cultivated my skills and knowledge in the ever-evolving world of computers.<br><br>Skills:<br>Linux<br>Python<br>Problem Solving<br>ICDL<br>Photoshop<br>Office<br>Wordpress CMS<br>System Setup & Repair<br>Troubleshooting<br>and more...<br>Experience:<br>Web Developer | Jun 2023 - Sep 2023<br>Explored Business Research, Web Projects, and Software Design in Shiraz, Iran.<br><br>Smartphone Repairs | Jan 2020 - Oct 2022<br>Conducted iOS and Android repairs full-time.<br><br>Education:<br>Computer Engineering Bachelor Student | Shahid Bahonar University of Kerman<br>Currently pursuing with substantial completion of coursework.<br><br>Licenses & Certifications:<br>CS50 | Harvard University | Apr 2023<br>Front-End Development | C | Python<br>Fundamental Programming in C# | Industrial Management Institute | Jul 2019<br>C#<br>Contact:<br>Email: rezamqds@gmail.com<br>Phone: +98 917 024 1067<br>LinkedIn: Connect with me<br>Let's collaborate and explore the endless possibilities of the digital world together! 🚀 #TechEnthusiast #Programmer #OpenSource
+• **Reza Moghaddas | Computer Enthusiast & Software Developer**
+
+Passionate about technology since the age of twelve, I've developed a solid foundation in various aspects of computing, continuously honing my skills in the fast-paced world of software development and IT.
+
+---
+
+• **🔧 Skills:**
+  - Linux Administration
+  - Python Programming
+  - Problem Solving & Algorithm Design
+  - ICDL Certification (International Computer Driving License)
+  - Adobe Photoshop
+  - Microsoft Office Suite
+  - WordPress CMS Development
+  - System Setup & Repair
+  - Troubleshooting & Technical Support
+  - And more...
+
+---
+
+• **💼 Experience:**
+  - **Web Developer** | June 2023 - September 2023  
+    Engaged in business research, web project development, and software design in Shiraz, Iran.
+  
+  - **Smartphone Repairs Specialist** | January 2020 - October 2022  
+    Provided comprehensive repair services for iOS and Android devices.
+
+---
+
+• **🎓 Education:**
+  - **Bachelor of Computer Engineering**  
+    Shahid Bahonar University of Kerman | Currently pursuing with a strong track record in coursework.
+
+---
+
+• **📜 Licenses & Certifications:**
+  - **CS50** | Harvard University | April 2023  
+    Comprehensive foundation in Front-End Development, C Programming, and Python.
+  
+  - **Fundamental Programming in C#** | Industrial Management Institute | July 2019
+
+---
+
+• **📬 Contact:**
+  - **Email:** [rezamqds@gmail.com](mailto:rezamqds@gmail.com)
+  - **Phone:** +98 917 024 1067
+  - **LinkedIn:** [Connect with me](#)
+
+Feel free to reach out for collaborations or inquiries! Together, we can unlock the endless possibilities of the digital world. 🚀 #TechEnthusiast #Programmer #OpenSource
 
 
 ## 🌐 Socials:
