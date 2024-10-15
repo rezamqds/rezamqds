@@ -48,7 +48,8 @@ Passionate about technology since the age of twelve, I've developed a solid foun
 
 Feel free to reach out for collaborations or inquiries! Together, we can unlock the endless possibilities of the digital world. 🚀 #TechEnthusiast #Programmer #OpenSource
 
-
+<div align="center">
+  
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rezamqds) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rezamqds) 
 
@@ -64,3 +65,4 @@ Feel free to reach out for collaborations or inquiries! Together, we can unlock 
 
 ---
 [![](https://visitcount.itsvg.in/api?id=rezamqds&icon=10&color=0)](https://visitcount.itsvg.in)
+</div>
