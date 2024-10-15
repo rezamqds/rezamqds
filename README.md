@@ -22,7 +22,7 @@ Passionate about technology since the age of twelve, I've developed a solid foun
 • **💼 Experience:**
 
   - **Software Developer** | May 2024 - Present
-    Currently working as a Software Developer (Systems Expert) at KMC Company, focusing on systems development and optimization.
+    Currently working as a Software Developer (Systems Expert) at KMC, focusing on systems development and optimization.
 
   - **Web Developer** | June 2023 - September 2023  
     Engaged in business research, web project development, and software design in Shiraz, Iran.
